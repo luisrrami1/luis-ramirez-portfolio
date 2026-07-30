@@ -12,8 +12,8 @@ export default function Navbar() {
             Projects
           </a>
           <a 
-            href="/Resume_official_luisramirez.pdf" 
-            download="Resume_official_luisramirez.pdf"
+            href="./ResumeLuisEnriqueRamirezjr.pdf" 
+            download="ResumeLuisEnriqueRamirezjr.pdf"
             className="flex items-center gap-1.5 px-4 py-2 text-sm font-medium bg-white/10 hover:bg-white/20 text-white rounded-full transition-all border border-white/10"
           >
             Resume
