@@ -339,7 +339,7 @@ function App() {
               <span>Embedded Hardware</span>
             </div>
           </div>
-          </div> 
+        </div> 
 
         </div>
       </section>
