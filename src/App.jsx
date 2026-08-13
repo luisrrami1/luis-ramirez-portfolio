@@ -199,7 +199,7 @@ function App() {
             </div>
           </div>
         </div>
-        </div>
+      
 
         {/* Project 2: Custom Quadcopter Flight Controller PCB */}
         <div className="bg-slate-950/40 border border-slate-800/80 rounded-2xl p-8 md:p-12 space-y-12 hover:border-slate-700/60 transition-all duration-300 shadow-2xl shadow-black/10">
@@ -339,6 +339,7 @@ function App() {
               <span>Embedded Hardware</span>
             </div>
           </div>
+          </div> 
 
         </div>
       </section>
