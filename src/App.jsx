@@ -298,13 +298,13 @@ function App() {
                     <div className="bg-slate-950/20 border border-slate-800 rounded-xl p-5 space-y-4 text-sm text-slate-300">
                       <ul className="space-y-3 list-disc list-inside">
                         <li className="leading-relaxed">
-                          <strong className="text-white font-medium">Modular Flight Architecture:</strong> Utilizing KiCad to schematic and layout a high-density PCB specifically tailored for micro drone frames.
+                          <strong className="text-white font-medium">Modular Flight Architecture</strong> 
                         </li>
                         <li className="leading-relaxed">
-                          <strong className="text-white font-medium">Power & Signal Isolation:</strong> Developing independent power management layers and isolated sensor interfaces to eliminate EMI noise during active motor power draws.
+                          <strong className="text-white font-medium">Power & Signal Isolation</strong> 
                         </li>
                         <li className="leading-relaxed">
-                          <strong className="text-white font-medium">Component Trade Studies:</strong> Researching and evaluating microcontrollers, low-noise LDO power regulators, and precision 6-axis IMU sensors for real-time attitude estimation.
+                          <strong className="text-white font-medium">Component Trade Studies</strong> 
                         </li>
                       </ul>
                     </div>
@@ -316,15 +316,15 @@ function App() {
                     <div className="bg-slate-950/20 border border-slate-800 rounded-xl p-5 space-y-4 text-sm text-slate-300">
                       <div>
                         <span className="block text-[11px] font-mono text-blue-400 uppercase tracking-wider mb-1">Inertial Measurement Unit (IMU)</span>
-                        <p className="leading-relaxed">Low-drift 6-DOF IMU interface connected via high-speed SPI bus for low latency pitch, roll, and yaw calculation.</p>
+                        <p className="leading-relaxed">In Progress.</p>
                       </div>
                       <div>
                         <span className="block text-[11px] font-mono text-blue-400 uppercase tracking-wider mb-1">Power Regulation Subsystem</span>
-                        <p className="leading-relaxed">Dedicated buck regulator and low-noise LDO stages providing clean 3.3V and 5V power rails to logic and receiver components.</p>
+                        <p className="leading-relaxed">In Progress.</p>
                       </div>
                       <div>
                         <span className="block text-[11px] font-mono text-blue-400 uppercase tracking-wider mb-1">Processing Unit</span>
-                        <p className="leading-relaxed">32-bit ARM Cortex Microcontroller architecture managing sensor fusion loops and PWM output signals to ESCs.</p>
+                        <p className="leading-relaxed">In Progress.</p>
                       </div>
                     </div>
                   </div>
